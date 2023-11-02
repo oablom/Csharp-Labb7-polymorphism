@@ -13,7 +13,7 @@ rektangelEtt.width = 12;
 Console.WriteLine("Rektangelns area: " + rektangelEtt.Area() + "cm\u00B2");
 
 Kvadrat kvadratEtt = new Kvadrat(); 
-kvadratEtt.sideLength = 6;
+kvadratEtt.sideLength = 6; 
 Console.WriteLine("Kvadratens area: "+ kvadratEtt.Area() + "cm\u00B2");
 
 Parallellogram parallellogramEtt = new Parallellogram();
